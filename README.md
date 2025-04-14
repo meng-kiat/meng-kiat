@@ -1,11 +1,8 @@
 ## Hi, I'm Denis 👋
 
-🎓 Fresh Graduate from Nanyang Technological University
-
-📚 Studied Business with specialisation in Business Analytics
-
-🌱 Currently learning Data, Data analytics, Visualisation, and Statistics.
-
+🎓 Fresh Graduate from Nanyang Technological University<br/>
+📚 Studied Business with specialisation in Business Analytics<br/>
+🌱 Currently learning Data, Data analytics, Visualisation, and Statistics<br/>
 🌐 You can find my simple portfolio website here: https://meng-kiat.github.io/
 
 <!--
