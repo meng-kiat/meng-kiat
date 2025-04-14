@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Denis 👋
+
+🎓 Fresh Graduate from Nanyang Technological University
+📚 Studied Business with specialisation in Business Analytics
+🌱 Currently learning Data, Data analytics, Visualisation, and Statistics.
+You can find my simple portfolio website here: https://meng-kiat.github.io/
 
 <!--
 **meng-kiat/meng-kiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
