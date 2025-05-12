@@ -3,8 +3,8 @@
 🎓 Fresh Graduate from Nanyang Technological University<br/>
 📚 Studied Business with specialisation in Business Analytics<br/>
 🌱 Currently learning Data, Data analytics, Visualisation, and Statistics<br/>
-🌐 You can find my simple portfolio website here: https://meng-kiat.github.io/
-
+🌐 You can find my portfolio website here: https://meng-kiat.github.io/
+    It mainly contains personal projects of mine.
 <!--
 **meng-kiat/meng-kiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
